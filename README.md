@@ -16,10 +16,7 @@ To run the YouTube Downloader, you need Python installed on your system along wi
 - `requests`: Used to fetch thumbnail images.
 - `certifi`: Provides Mozilla's SSL certificates for secure connections.
 
-You can install these dependencies using pip:
-pip install pytube pillow requests certifi
-or
-pip install -r requirements.txt
+### pip install -r requirements.txt
 
 
 ## Usage
